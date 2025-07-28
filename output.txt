@@ -1,4 +1,2 @@
-Enter the size of array
-Enter the elements of array
-Enter the target
-Target found at position: 3
+The summation of array : 150
+The maximum number is: 50
