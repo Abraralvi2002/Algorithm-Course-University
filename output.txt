@@ -1,3 +1,1 @@
-Enter Your elements
-Elements Are: 
-10 20 30 40 50 
+Target found at position: 3
